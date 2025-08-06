@@ -1,1 +1,1 @@
-This is change from conflict-B branch.
+This is resolved content from both branches.
