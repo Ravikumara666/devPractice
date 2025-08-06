@@ -1,0 +1,1 @@
+console.log("teinv iie  i iso osvou sijx ijxzovasz")
